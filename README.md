@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarloskarimLS
 - 👀 I’m interested in ... Cybersecurity & web development
-- 🌱 I’m currently learning ... Nodejs, JavaScript 
+- 🌱 I’m currently learning ... Nodejs, JavaScript, MongoDB
 - 💞️ I’m looking to collaborate on ... Microsoft, Google
 - 📫 How to reach me ...
 
