@@ -2,6 +2,7 @@
 - 👀 I’m interested in ... Cybersecurity & web development
 - 🌱 I’m currently learning ... Nodejs, JavaScript, MongoDB
 - 💞️ I’m looking to collaborate on ... Microsoft, Google
+- 🔰 Events - HackDef CTF 2020 💉
 - 📫 How to reach me ...
 
 <!---
